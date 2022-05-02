@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="GitHubCard"
+  >
+    <h1>
+      Ryan's Github Profile Info:
+    </h1>
+    <h2 />
+    <div
+      className="card"
+      style={
+        Object {
+          "backgroundColor": "lightblue",
+          "backgroundImage": "url(https://avatars.githubusercontent.com/u/93347623?v=4)",
+          "backgroundPosition": "center",
+          "backgroundRepeat": "no-repeat",
+          "backgroundSize": "200px 200px",
+          "height": "500px",
+          "width": "100%",
+        }
+      }
+    >
+      <div
+        className="paragraph card-subtitle h6"
+        style={
+          Object {
+            "fontSize": "15px",
+          }
+        }
+      >
+         
+        Self-belief and hard work will always earn you success.
+         
+      </div>
+    </div>
+  </div>
+</div>
+`;
